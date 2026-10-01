@@ -1,7 +1,16 @@
 # Changelog
 
-**Current version:** 0.4.0  
-**Last updated:** 2026-10-01T03:30:21Z  
+**Current version:** 0.5.0  
+**Last updated:** 2026-10-01T03:33:10Z  
+
+---
+
+## [0.5.0] - 2026-10-01
+
+**PR:** #4  
+
+**✨ Features**
+- add module b
 
 ---
 
