@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-01T03:33:10Z",
+    "lastUpdated": "2026-10-01T04:55:58Z",
     "currentVersion": "0.5.0",
     "projectTypes": [
       "node"
@@ -15,12 +15,18 @@
       ],
       "date": "2026-10-01",
       "pr_number": 4,
-      "raw_summary": "### ✨ Features\n- add module b",
+      "raw_summary": "### ✨ Features\n- add module b\n\n### 🔧 Changes\n- 릴리스 머지 안내 수정 반영",
       "parsed_changes": {
         "feat": {
           "title": "✨ Features",
           "items": [
             "add module b"
+          ]
+        },
+        "changes": {
+          "title": "🔧 Changes",
+          "items": [
+            "릴리스 머지 안내 수정 반영"
           ]
         }
       },
