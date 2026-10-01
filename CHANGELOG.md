@@ -1,7 +1,19 @@
 # Changelog
 
-**Current version:** 0.4.0  
-**Last updated:** 2026-10-01T03:30:21Z  
+**Current version:** 0.5.0  
+**Last updated:** 2026-10-01T04:55:58Z  
+
+---
+
+## [0.5.0] - 2026-10-01
+
+**PR:** #4  
+
+**✨ Features**
+- add module b
+
+**🔧 Changes**
+- 릴리스 머지 안내 수정 반영
 
 ---
 
