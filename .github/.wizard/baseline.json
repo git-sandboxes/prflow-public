@@ -1,14 +1,14 @@
 {
   "templateVersion": "0.16.1",
-  "installedAt": "2026-10-01 03:15:07",
+  "installedAt": "2026-10-01 04:54:49",
   "files": {
     "PROJECT-COMMON-AI-PR-SUMMARY.yaml": {
       "installed": "sha256:19f828de5f1c5cb9e3510c42d258fdc5aa398d0164d1f8634f4785b6abc59fb4",
       "rendered": "sha256:19f828de5f1c5cb9e3510c42d258fdc5aa398d0164d1f8634f4785b6abc59fb4"
     },
     "PROJECT-COMMON-AUTO-CHANGELOG-CONTROL.yaml": {
-      "installed": "sha256:8f72a7e036a4bb52951f30a6d261d893f9358159df1a446a834e2669c0cb4010",
-      "rendered": "sha256:8f72a7e036a4bb52951f30a6d261d893f9358159df1a446a834e2669c0cb4010"
+      "installed": "sha256:dd3b9268a7536dc3a9106bb7c348e142b3022cc5fa44662ee6630c6bf6a054a5",
+      "rendered": "sha256:dd3b9268a7536dc3a9106bb7c348e142b3022cc5fa44662ee6630c6bf6a054a5"
     },
     "PROJECT-COMMON-ISSUE-HELPER.yaml": {
       "installed": "sha256:846a177deae41e160eccb21fa66b95a6ccb593286c526832f2662b8e6e00b262",
