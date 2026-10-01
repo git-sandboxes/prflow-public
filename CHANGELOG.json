@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "lastUpdated": "2026-10-01T03:17:04Z",
+    "currentVersion": "0.2.0",
+    "projectTypes": [
+      "node"
+    ],
+    "totalReleases": 1
+  },
+  "releases": [
+    {
+      "version": "0.2.0",
+      "project_types": [
+        "node"
+      ],
+      "date": "2026-10-01",
+      "pr_number": 1,
+      "raw_summary": "### ✨ Features\n- add greeting module\n\n### 🔧 Changes\n- project-auto-wizard 설치",
+      "parsed_changes": {
+        "feat": {
+          "title": "✨ Features",
+          "items": [
+            "add greeting module"
+          ]
+        },
+        "changes": {
+          "title": "🔧 Changes",
+          "items": [
+            "project-auto-wizard 설치"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    }
+  ]
+}
